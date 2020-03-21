@@ -56,7 +56,7 @@
     "favicon": false,
     "cookiesAlert": false,
     "gdpr": false,
-    "google-analytics": "<META name=¨keywords¨ content=¨Towing in Virginia, Towing services, Tow service near me, Towing service Winchester va, Tow truck, tow truck near me, Towing, Jtowingva, Johnnys towing, johnnys towing inc, Auto Towing, Flatbed Towing, Local Towing, Jump Start Battery Service, Tire Change and Repair, Lock Out Service, Gas Service, Winch & Recovery Service, Impoud Service, Roadside Service, Light Duty, Emergency roadside assistance for drivers\nWe offer the lowest rates in Winchester, Professional towing company¨>"
+    "google-analytics": "<meta name=\"keywords\" content=\"Towing in Virginia, Towing services, Tow service near me, Towing service Winchester va, Tow truck, tow truck near me, Towing, Jtowingva, Johnnys towing, johnnys towing inc, Auto Towing, Flatbed Towing, Local Towing, Jump Start Battery Service, Tire Change and Repair, Lock Out Service, Gas Service, Winch & Recovery Service, Impoud Service, Roadside Service, Light Duty, Emergency roadside assistance for drivers\nWe offer the lowest rates in Winchester, Professional towing company\">"
   },
   "pages": {
     "index.html": {
