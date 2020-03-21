@@ -1,7 +1,7 @@
 {
   "settings": {
-    "name": "Site-02-18_1322",
-    "currentPage": "index.html",
+    "name": "Johnny´s Towing inc virginia",
+    "currentPage": "about.html",
     "theme": {
       "name": "mobirise4",
       "title": "Mobirise 4",
@@ -47,7 +47,15 @@
     "imageResize": true,
     "uniqCompNum": 60,
     "versionPublish": "4.12.2",
-    "screenshot": "screenshot.png"
+    "screenshot": "screenshot.png",
+    "robotsSwitcher": true,
+    "robotsText": "# Grupo 1\nUser-agent: Googlebot\nDisallow: /nogooglebot/\n\n# Grupo 2\nUser-agent: *\nAllow: /\n\nSitemap: http://www.jtowingva.com/sitemap.xml",
+    "sitemapSwitcher": true,
+    "siteUrl": "https://jtowingva.com",
+    "sitemapSwitcherAuto": "on",
+    "favicon": false,
+    "cookiesAlert": false,
+    "gdpr": false
   },
   "pages": {
     "index.html": {
